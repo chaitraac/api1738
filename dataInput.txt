@@ -1,0 +1,42 @@
+Applications on the end-systems communicate with each other using the lower layer services.
+Physical layer: 
+This is the lowest layer in a communication system and is responsible for the conversion of a stream of bits into signals that can be transmitted on the sender side.
+The physical layer of the receiver then transforms the signals back into a bit stream.
+ For wireless communication, the physical layer is responsible for frequency selection, generation of the carrier frequency, signal detection, modulation of data onto a carrier frequency and encryption.
+Network layer: 
+This third layer is responsible for routing packets through a network or establishing a connection between two entities over many other intermediate systems. Important topics are addressing, routing, device location,and handover between different networks • 
+Transport layer: 
+This layer is used in the reference model to establish an end-to- end connection. Topics like quality of service, flow and congestion control are relevant, especially if the transport protocols known from the Internet, TCP and UDP, are to be used over a wireless link.
+An ad hoc network is a network that is composed of individual devices communicating with each other directly.
+ The term implies spontaneous or impromptu construction because these networks often bypass the gatekeeping hardware or central access point such as a router. 
+Many ad hoc networks are local area networks where computers or other devices are enabled to send data directly to one another rather than going through a centralized access point.
+For example, a mobile ad hoc network involves mobile devices communicating directly   with one another.  
+It is the hardware and software resources of an entire network that enable network connectivity, communication, operations and management of an enterprise network. 
+It provides the communication path and services between users, processes, applications, services and external networks/the internet.
+The entire network infrastructure is interconnected, and can be used for internal communications, external communications or both. 
+Security standards: When working mobile, one is dependent on public networks,  requiring careful use of VPN (Virtual Private Networks). Security is a major concern while concerning the mobile computing standards on the fleet.
+ One can easily attack the VPN through a huge number of networks interconnected through the line.
+Power consumption: When a power outlet or portable generator is not available, mobile computers must rely entirely on battery power. Combined with the compact size of many mobile devices, this often means unusually expensive batteries must be used to obtain the necessary battery life.
+Transmission interferences: Weather, terrain, and the range from the nearest signal point can all interfere with signal reception. Reception in tunnels, some buildings, and rural areasis often poor.
+Security standards: When working mobile, one is dependent on public networks,  requiring careful use of VPN (Virtual Private Networks). Security is a major concern while concerning the mobile computing standards on the fleet. One can easily attack 
+the VPN through a huge number of networks interconnected through the line.
+Power consumption: When a power outlet or portable generator is not available, mobile computers must rely entirely on battery power. Combined with the compact size of many mobile devices, this often means unusually expensive batteries must be used to obtain the necessary battery life.
+Transmission interferences: Weather, terrain, and the range from the nearest signal point can all interfere with signal reception. Reception in tunnels, some buildings, and rural areasis often poor.
+The GSM system architecture contains a variety of different elements, and is often termed the core network. It is essentially a data network with a various entities that provide the main control and
+ interfacing for the whole mobile network.
+
+GSM System Architecture. In GSM system the mobile handset is called Mobile Station (MS). A cell is formed by the coverage area of a Base Transceiver Station (BTS) which serves the MS in its coverage area. Several BTS together are controlled by one Base Station Controller (BSC).
+
+In GSM system the mobile handset is called Mobile Station (MS). A cell is formed by the coverage area of a Base Transceiver Station (BTS) which serves the MS in its coverage area. Several BTS together are controlled by one Base Station Controller (BSC). The BTS and BSC together form Base Station Subsystem (BSS)
+The GSM system architecture contains a variety of different elements, and is often termed the core network. It is essentially a data network with a various entities that provide the main control and interfacing for the whole mobile network.
+
+GSM System Architecture. In GSM system the mobile handset is called Mobile Station (MS). A cell is formed by the coverage area of a Base Transceiver Station (BTS) which serves the MS in its coverage area. Several BTS together are controlled by one Base Station Controller (BSC).
+
+In GSM system the mobile handset is called Mobile Station (MS). A cell is formed by the coverage area of a Base Transceiver Station (BTS) which serves the MS in its coverage area. Several BTS together are controlled by one Base Station Controller (BSC). The BTS and BSC together form Base Station Subsystem (BSS)
+It includes the data stored in HLR for faster access as well as the temporary data like location of the user. 
+
+The AUC stores the authentication information of the user such as the keys for encryption. 
+
+The EIR stores stores data about the equipments and can be used to prevent calls from a stolen equipments.
+
+All the mobile equipments in GSM system are assigned unique id called IMSI (International Mobile Equipment Identity) and is allocated by equipment manufacturer and registered by the service provider. 
